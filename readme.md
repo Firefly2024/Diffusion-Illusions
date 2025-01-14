@@ -33,6 +33,7 @@ The source python file:
 
     source/uv_map_generator.py: The implementation of UV_MAP generator
     source/stable_diffusion_with_images.py: The implementation of stable diffusion (especially train_step) working for image prompts
+    source/stable_diffusion_label_with_images.py: The implementation of stable diffusion labels working for image prompts
 
 ## 2.How to run the code
 
