@@ -1,5 +1,5 @@
-# Creating Visual Cognitive Illusions
----
+# Creating Visual Cognitive illusions
+
 Welcome to our repository [Firefly2024/Diffusion-Illusions](https://github.com/Firefly2024/Diffusion-Illusions)
 
 This repository contains the implementation of **Creating Visual Cognitive Illusions**,which is the final project of Computer Vision,2024 fall,Peking University.
@@ -12,12 +12,12 @@ Their website:[diffusionillusions.com](https://diffusionillusions.com)
 
 Their github repository:[ryanndagreat.github.io/Diffusion-Illusions](https://ryanndagreat.github.io/Diffusion-Illusions)
  
-- [Creating Visual Cognitive Illusions](#creating-visual-cognitive-illusions)
+- [Creating Visual Cognitive illusions](#creating-visual-cognitive-illusions)
   - [1.Project structure](#1project-structure)
   - [2.How to run the code](#2how-to-run-the-code)
  
 ## 1.Project structure
----
+
 This repository retains all files from the original project, and any files that we have modified or added have been renamed accordingly. 
 
 The main runnable Jupyter Notebook:
@@ -35,6 +35,6 @@ The source python file:
     source/stable_diffusion_with_images.py: The implementation of stable diffusion (especially train_step) working for image prompts
 
 ## 2.How to run the code
----
+
 The code has been organised as a Jupyter Notebook and has been tested on Google Colab.Therefore, we recommend running this code on Google Colab.
 All the environmental preparation and model loader has been set up in every notebook, so you only need to follow the instructions in every notebook.
