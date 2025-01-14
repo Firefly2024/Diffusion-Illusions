@@ -25,7 +25,7 @@ import torch.nn.functional as F
 import torchvision.transforms as T
 from torchvision.transforms.functional import to_pil_image
 import matplotlib.pyplot as plt
-from source.stable_diffusion_labels import NegativeLabel
+from source.stable_diffusion_label_with_images import NegativeLabel
 from IPython.display import display
 
 import rp
