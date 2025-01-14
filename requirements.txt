@@ -14,4 +14,4 @@ transformers
 diffusers
 rp
 easydict
-open_clip
+open-clip-torch
